@@ -2,11 +2,18 @@
 
 https://www.addy.co.nz/
 
-Improve your shopify checkout experience with the type-ahead-search address autocomplete plugin.
-
-Add Address Autocomplete to Shopify in minutes.
+Boost conversions and improve order delivery when you integrate Addy's address validation services into your Shopify checkout forms. Validate and capture accurate customer addresses at the point of order.
 
 ![Shopify Address Autocomplete](https://github.com/addynz/Shopify-Address-Autocomplete/blob/master/shopifyaddressautocomplete.gif)
+
+Addy's service use intelligent fuzzy matching for addresses. This means that if a typo, invalid suburb or partially correct address is entered, customers can still find the right delivery or billing address because the addresses are validated against actual delivery point data from official address sources, including the New Zealand Postal Address File (PAF).
+
+## Benefits
+
+- Reduce friction and increase conversion rates with a fast checkout process 
+- Create a delightful checkout experience for repeated business
+- Deliver to the right address, the first time
+- Verify and validate address details in real-time
 
 ## Get started
 Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
@@ -27,6 +34,9 @@ Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
   d.body.appendChild(s);
 })(document, window);
 ```
+
+## Prices
+Addy's Shopify plugin in free of charge; download and install it at no cost.  Just setup an account with Addy to get your 1,500 free completed address lookups per month.  If you require additional address transactions, simply pay as you go. See: https://www.addy.co.nz/pricing
 
 ## Links
 
