@@ -6,6 +6,8 @@ Improve your shopify checkout experience with the type-ahead-search address auto
 
 Add Address Autocomplete to Shopify in minutes.
 
+![Shopify Address Autocomplete](https://github.com/addynz/Shopify-Address-Autocomplete/blob/master/shopifyaddressautocomplete.gif)
+
 ## Get started
 Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
 
