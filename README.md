@@ -36,7 +36,7 @@ Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
 ```
 
 ## Prices
-Addy's Shopify plugin in free of charge; download and install it at no cost.  Just setup an account with Addy to get your 1,500 free completed address lookups per month.  If you require additional address transactions, simply pay as you go. See: https://www.addy.co.nz/pricing
+Addy's Shopify plugin is free of charge; download and install it at no cost.  Just setup an account with Addy to get your 1,500 free completed address lookups per month.  If you require additional address transactions, simply pay as you go. See: https://www.addy.co.nz/pricing
 
 ## Links
 
