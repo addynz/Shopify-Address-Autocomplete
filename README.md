@@ -1,12 +1,12 @@
-# Shopify Address Autocomplete Plugin by Addy.co.nz
+# Shopify Address Finder Plugin by Addy.co.nz
 
 https://www.addy.co.nz/
 
-Boost conversions and improve order delivery when you integrate Addy's address validation services into your Shopify checkout forms. Validate and capture accurate customer addresses at the point of order.
+Boost conversions and improve order delivery when you integrate Addy's address checking and validation services into your Shopify checkout forms. Find, validate and capture accurate customer addresses at the point of order.
 
 ![Shopify Address Autocomplete](https://github.com/addynz/Shopify-Address-Autocomplete/blob/master/shopifyaddressautocomplete.gif)
 
-Addy's service uses intelligent fuzzy matching for addresses. This means that if a typo, invalid suburb or partially correct address is entered, customers can still find the right delivery or billing address because the addresses are validated against actual delivery point data from official address sources, including the New Zealand Postal Address File (PAF).
+Addy's service uses intelligent fuzzy matching for addresses (See: https://www.addy.co.nz/address-finder-fuzzy-matching). This means that if a typo, invalid suburb or partially correct address is entered, customers can still find the right delivery or billing address because the addresses are validated against actual delivery point data from official address sources, including the New Zealand Postal Address File (PAF).
 
 ## Benefits
 
