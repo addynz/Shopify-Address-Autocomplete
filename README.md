@@ -44,7 +44,7 @@ Official Addy site: <https://www.addy.co.nz/>
 
 Complete Shopify Integration Documentation: <https://www.addy.co.nz/address-autocomplete-shopify-plugin>
 
-RESTful API Documentation: <https://www.addy.co.nz/address-search-and-postcode-api>
+RESTful Address Finder API Documentation: <https://www.addy.co.nz/address-finder-and-postcode-api>
 
 All Documentation: <https://www.addy.co.nz/documentation>
 
